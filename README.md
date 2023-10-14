@@ -1,4 +1,4 @@
-!(https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/03/ramas-de-la-programacion-scaled.jpg)
+![Aditya Vikram Singh Banner](https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/03/ramas-de-la-programacion-scaled.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
