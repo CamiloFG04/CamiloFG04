@@ -1,6 +1,6 @@
 ![banner](https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/03/ramas-de-la-programacion-scaled.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<h2>;Hola! soy Camilo</h2>
 
 <!-- ## 👋 &nbsp;Hola! soy Camilo -->
 
@@ -11,7 +11,7 @@
 🌱 &nbsp;Estoy aprendiendo más sobre desarrollo web, Docker y AWS | I'm learning more about web development, Docker and AWS\
 ✍️ &nbsp;En mi tiempo libre, me dedico a reforzar los conocimientos y así tener un buen portafolio junto a actividades secundarias. | In my free time, I dedicate myself to strengthening my knowledge and thus having a good portfolio along with secondary activities.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://assets-blog.hostgator.mx/wp-content/uploads/2020/07/Lenguaje-de-programacion-Golang-o-Go.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
